@@ -45,13 +45,7 @@ class HomePage extends ConsumerWidget{
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-              CustomInkWell(height: height, width: width, ontap: (){}, insideWidget: const Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Center(child: Icon(Icons.stacked_bar_chart_rounded,size: 50,),),
-                  Text("Raporlar",style: TextStyle(fontSize: 24,fontWeight: FontWeight.bold,color: Colors.white),)
-                ],
-              )),              
+                            
               VerticalDivider(thickness: 1,),
               CustomInkWell(height: height, width: width, ontap: (){}, insideWidget: const Column(
                 mainAxisAlignment: MainAxisAlignment.center,
