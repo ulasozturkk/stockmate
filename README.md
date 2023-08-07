@@ -1,16 +1,13 @@
 # stockmate
 
-A new Flutter project.
+A new Flutter project that used to control small shops product stocks
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Log in or sign up this application and start with add product stock in db and you can controll selling products
 
-A few resources to get you started if this is your first Flutter project:
+## state management: riverpod
+## database : firebase
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
